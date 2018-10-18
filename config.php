@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
+define('APIKEY', 'AIzaSyCDDEs1WEoRylRhr3x1Kapi6RwTTasdEyM);
 define('GJ_CODE', 'US');
 define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
+define('TITLENAME', 'y2b'); 
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
 define('EMAIL', '1334347212@qq.com');
 define('NAME', 'admin');
