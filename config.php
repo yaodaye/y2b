@@ -1,11 +1,11 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCDDEs1WEoRylRhr3x1Kapi6RwTTasdEyM);
-define('GJ_CODE', 'US');
+define('APIKEY', 'AIzaSyBUXE0U-bL_e7A25prN_0yoYWFWzGRsqQs);
+define('GJ_CODE', 'tw');
 define('SITE_NAME', 'y2b');
 define('TITLENAME', 'y2b'); 
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
+define('EMAIL', '1813028478qq.com');
 define('NAME', 'admin');
 define('PASSWORD', 'admin');
 define('LOGINHTML', '<!DOCTYPE html>
