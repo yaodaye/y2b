@@ -7,7 +7,7 @@ define('TITLENAME', 'y2b');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
 define('EMAIL', '1813028478qq.com');
 define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('PASSWORD', '1377');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
